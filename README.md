@@ -30,7 +30,7 @@ Necessary steps thats required to set up the application.
     - `clientSecret`
 6. Grab the Authentication Base URI and place it within the environment variable in Heroku.
     - `authenticationUrl`
-7. Grab the HTTPS URL that is created by Heroku and place it within config.json replacing `<HTTPS_URL_OF_APP>`.
+7. Grab the HTTPS URL that is created by Heroku and place it within config.json replacing `https://customactivitycarlos.onrender.com`.
 
 ## Release History
 
